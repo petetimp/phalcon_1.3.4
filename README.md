@@ -18,7 +18,7 @@ Testing it out with phpinfo
     <?php 
       phpinfo();
     ?>
-3. Save the file in C:\xampp\htdocs\ and go to localhost\info.php in your web browser.
+3. Save the file as 'info.php' in C:\xampp\htdocs\ and go to localhost\info.php in your web browser.
 4. Press ctrl+f and search for 'phalcon'
 5. You should see the following details: 
   phalcon
